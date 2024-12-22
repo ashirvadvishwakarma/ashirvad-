@@ -1,2 +1,0 @@
-# ashirvad-
-javascript.js
